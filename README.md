@@ -16,7 +16,7 @@ conda activate jupyter_tutorial_ges_disc
 jupyter notebook
 ```
 
-3. To run the notebooks in binder, click on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/christine-e-smit/jupyter_tutorial/HEAD). Note: the forth notebook **will not** work in binder. Passwords [_do not mix_](https://mybinder.readthedocs.io/en/latest/introduction.html) with binder.
+3. To run the notebooks in binder, click on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/christine-e-smit/jupyter_tutorial/HEAD).
 
 ## Troubleshooting
 
