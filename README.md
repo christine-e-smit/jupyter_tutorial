@@ -13,7 +13,8 @@ directory. You will need to watch for the token in the docker output and open
 2. To run in a conda local environment, call
 
 ```bash
-conda env create -f binder/environment.yml
+cd binder
+conda env create -f environment.yml
 conda activate jupyter_tutorial_ges_disc
 jupyter notebook
 ```
