@@ -16,6 +16,7 @@ directory. You will need to watch for the token in the docker output and open
 cd binder
 conda env create -f environment.yml
 conda activate jupyter_tutorial_ges_disc
+cd ..
 jupyter notebook
 ```
 
